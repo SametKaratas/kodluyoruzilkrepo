@@ -1,4 +1,5 @@
 # Kodlutouz Ilk Repo
+
 ---
 
 Bu repo [Kodluyoruz](Kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
